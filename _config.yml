@@ -22,7 +22,7 @@ social-email: hi@cto.berlin # add your Email address
 discus-identifier: sebastian_galonska # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: G-DM63FTV818 # Google Analytics
 
 # Build Settings
 markdown: kramdown
